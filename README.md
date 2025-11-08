@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 我是沈之永恒EternityShen！ 👋
+### 欢迎您来到我的GitHub主页
+先来做个简单的自我介绍吧
+- 地区:广东省江门市恩平市
+- 年龄:17岁
+- 性别:男
+- 擅长的编程语言: Rust
+- 正在学习的语言: Rust
+### Friend
+朋友:MoWei[点我跳转](https://github.com/MoWei-2077) <br>
+### 目前拥有的设备
+- OnePlus ACE
+- 蛟龙16Pro
+### 最喜爱的编程语言
+[![C++](https://img.shields.io/badge/language-C++-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/Rust)
 
-<!--
-**EternityShen/EternityShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EtetnityShen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top language](https://github-readme-stats.vercel.app/api/top-langs?username=EtetnityShen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
