@@ -10,6 +10,7 @@
 朋友:MoWei[点我跳转](https://github.com/MoWei-2077) <br>
 ### 目前拥有的设备
 - OnePlus ACE
+- HUAWEI Nova 5
 - 蛟龙16Pro
 ### 最喜爱的编程语言
 [![C++](https://img.shields.io/badge/language-Rust-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/Rust)
