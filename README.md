@@ -6,8 +6,6 @@
 - 性别:男
 - 擅长的编程语言: Rust
 - 正在学习的语言: Rust
-### 朋友
-朋友:MoWei[点我跳转](https://github.com/MoWei-2077) <br>
 ### 目前拥有的设备
 - OnePlus ACE
 - HUAWEI Nova 5
