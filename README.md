@@ -12,6 +12,3 @@
 - 蛟龙16Pro
 ### 最喜爱的编程语言
 [![C++](https://img.shields.io/badge/language-Rust-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/Rust)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EternityShen&show_icons=true&bg_color=00000000)
-[![Top language](https://github-readme-stats.vercel.app/api/top-langs?username=EternityShen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
