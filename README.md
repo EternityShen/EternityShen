@@ -5,9 +5,8 @@
 - 学历:职高
 - 年龄:17岁
 - 性别:男
-- 学过的编程语言: Kotlin HTML CSS JS
+- 学过的编程语言: Kotlin HTML CSS JS C/Cpp
 - 擅长的编程语言: Rust
-- 正在学习的语言: Rust C/CPP
 ### 目前拥有的设备
 - OnePlus ACE
 - HUAWEI Nova 5
