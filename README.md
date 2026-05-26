@@ -13,7 +13,7 @@
 - 蛟龙16Pro 2023
 ### 最喜爱的编程语言
 [![C++](https://img.shields.io/badge/language-Rust-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/Rust)
-![EternityShen的 Wakatime 统计](https://github-readme-stats.vercel.app/api/wakatime?username=EternityShen&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=EternityShen&theme=radical)
 ## 近期项目
 [![项目名](https://github-readme-stats.vercel.app/api/pin/?username=EternityShen&repo=你的项目名&theme=radical)](https://github.com/EternityShen/你的项目名)
 ## 技术栈
