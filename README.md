@@ -14,13 +14,14 @@
 ### 最喜爱的编程语言
 [![C++](https://img.shields.io/badge/language-Rust-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/Rust)
 
-##统计
+## 统计
 
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=EternityShen&theme=radical)
-## 近期项目
-[![项目名](https://github-readme-stats.vercel.app/api/pin/?username=EternityShen&repo=ShenEternity-Agent&theme=radical)](https://github.com/EternityShen/ShenEternity-Agent)
-## 技术栈
+
+### 🛠 技术栈
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
