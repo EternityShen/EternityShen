@@ -14,6 +14,10 @@
 ### 最喜爱的编程语言
 [![C++](https://img.shields.io/badge/language-Rust-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/Rust)
 
+
+![沈之永恒-18岁-中国江门](https://img.shields.io/badge/沈之永恒-18岁_中国江门-0088cc?style=for-the-badge&logo=person-fill&logoColor=white)
+
+
 ## 统计
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=EternityShen&theme=radical)
