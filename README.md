@@ -26,4 +26,4 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 名片
-![沈之永恒-18岁-[sheneternity2008@outlook.com]](https://img.shields.io/badge/沈之永恒-18岁-[sheneternity2008@outlook.com]-0088cc?style=for-the-badge&logo=person-fill&logoColor=white)
+![沈之永恒-18岁](https://img.shields.io/badge/沈之永恒-18岁-0088cc?style=for-the-badge&logo=person-fill&logoColor=white)
