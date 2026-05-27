@@ -20,7 +20,7 @@
 ### 📱 设备一览
 ![OnePlus ACE](https://img.shields.io/badge/OnePlus_ACE-F5010C?style=for-the-badge&logo=oneplus&logoColor=white)
 ![HUAWEI Nova 5](https://img.shields.io/badge/HUAWEI_Nova_5-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
-![蛟龙16Pro](https://img.shields.io/badge/蛟龙16Pro_2023-0078D7?style=for-the-badge&logo=windows11&logoColor=white)
+![机械革命 蛟龙16Pro](https://img.shields.io/badge/机械革命_蛟龙16Pro-6A0DAD?style=for-the-badge&logo=laptop&logoColor=white)
 
 ### 💖 最喜爱的编程语言
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
