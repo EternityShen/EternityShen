@@ -29,9 +29,7 @@
 
 ## 📈 GitHub 统计
 
-| 综合统计 | 常用语言 | 贡献热度 |
-|:---:|:---:|:---:|
-| ![EternityShen的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=EternityShen&show_icons=true&theme=radical&hide_border=true) | ![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=EternityShen&layout=compact&theme=radical&hide_border=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=EternityShen&theme=radical&hide_border=true) |
+![GitHubStreak](https://streak-stats.demolab.com/?user=EternityShen&theme=radical&hide_border=true)
 
 ---
 
