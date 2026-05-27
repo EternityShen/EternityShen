@@ -34,7 +34,7 @@
 ---
 
 ### 🌱 我目前在...
-深入学习 Rust 的系统编程和并发模型，并探索其在WebAssembly和后端的应用。
+深入学习 Rust 的Tui库
 
 ### 📫 如何联系我
 - GitHub: [@EternityShen](https://github.com/EternityShen)
