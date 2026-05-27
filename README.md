@@ -15,9 +15,6 @@
 [![C++](https://img.shields.io/badge/language-Rust-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/Rust)
 
 
-![沈之永恒-18岁-中国江门](https://img.shields.io/badge/沈之永恒-18岁_中国江门-0088cc?style=for-the-badge&logo=person-fill&logoColor=white)
-
-
 ## 统计
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=EternityShen&theme=radical)
@@ -27,3 +24,6 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 名片
+![沈之永恒-18岁岁-ShenEternity2008@outlook.com](https://img.shields.io/badge/沈之永恒-18岁岁-ShenEternity2008@outlook.com-0088cc?style=for-the-badge&logo=person-fill&logoColor=white)
