@@ -40,7 +40,7 @@
 
 ### 📫 如何联系我
 - GitHub: [@EternityShen](https://github.com/EternityShen)
-- (您可以在此处添加邮箱、博客或其他社交链接)
+- OutLook: [ShenEternity2008@outlook.com]()
 
 ---
 *感谢访问！ ✨*
