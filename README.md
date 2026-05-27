@@ -23,7 +23,6 @@
 
 ### 💖 最喜爱的编程语言
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
-*我热爱它的安全、性能和现代化的开发者体验。*
 
 ---
 
