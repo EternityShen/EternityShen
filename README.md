@@ -17,7 +17,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 会一点，但是不用
+## 会一点
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,7 +39,7 @@
 ---
 
 ### 🌱 我目前在...
-深入学习 Rust 的Tui库
+学习 Web 三件套 html css ts
 
 ### 📫 如何联系我
 - GitHub: [@EternityShen](https://github.com/EternityShen)
