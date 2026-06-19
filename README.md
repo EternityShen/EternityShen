@@ -20,7 +20,9 @@
 ## 会一点
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
 
 ### 📱 设备一览
 ![OnePlus ACE](https://img.shields.io/badge/OnePlus_ACE-F5010C?style=for-the-badge&logo=oneplus&logoColor=white)
@@ -39,7 +41,7 @@
 ---
 
 ### 🌱 我目前在...
-学习 Web 三件套 html css ts
+学习 Web 三件套 HTML / CSS / TS
 
 ### 📫 如何联系我
 - GitHub: [@EternityShen](https://github.com/EternityShen)
