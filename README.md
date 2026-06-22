@@ -48,7 +48,7 @@
 ---
 
 ### 🌱 我目前在...
-学习 Web 三件套 HTML / CSS / TS
+学习 Flutter 
 
 ### 📫 如何联系我
 - GitHub: [@EternityShen](https://github.com/EternityShen)
