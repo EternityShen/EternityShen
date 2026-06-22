@@ -48,7 +48,7 @@
 ---
 
 ### 🌱 我目前在...
-学习 Flutter 
+深入学习 Flutter 
 
 ### 📫 如何联系我
 - GitHub: [@EternityShen](https://github.com/EternityShen)
