@@ -30,7 +30,7 @@
 
 ### ✏️ 编辑器
 ![Neovim](https://img.shields.io/badge/NeoVim-ff69b4?style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-ff69b4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🖥️ 操作系统
 ![Windows](https://img.shields.io/badge/Windows-ff69b4?style=for-the-badge&logo=windows&logoColor=white)
