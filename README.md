@@ -2,7 +2,7 @@
 ### 欢迎您来到我的GitHub主页
 
 ### 📋 个人信息卡
-![地区](https://img.shields.io/badge/地区-广东江门恩平-0088cc?style=for-the-badge&logo=googlemaps&logoColor=white)
+![地区](https://img.shields.io/badge/地区-广东江门恩平-ff69b4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![学历](https://img.shields.io/badge/学历-职高-ff69b4?style=for-the-badge&logo=academicons&logoColor=white)
 ![年龄](https://img.shields.io/badge/年龄-18岁-ff69b4?style=for-the-badge&logo=line&logoColor=white)
 ![性别](https://img.shields.io/badge/性别-男-ff69b4?style=for-the-badge&logo=sony&logoColor=white)
