@@ -15,6 +15,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-ff69b4?style=for-the-badge&logo=flutter&logoColor=white)
 ![C](https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-ff69b4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-ff69b4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ### 会，但是不用
 ![Kotlin](https://img.shields.io/badge/Kotlin-ff69b4?style=for-the-badge&logo=kotlin&logoColor=white)
 
