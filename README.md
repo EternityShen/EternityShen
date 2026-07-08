@@ -17,7 +17,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-ff69b4?style=for-the-badge&logo=tauri&logoColor=white)
 
 ### 会一丁点，但是不用，已经放弃使用
 ![Kotlin](https://img.shields.io/badge/Kotlin-ff69b4?style=for-the-badge&logo=kotlin&logoColor=white)
