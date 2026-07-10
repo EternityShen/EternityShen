@@ -14,7 +14,7 @@
 ![C](https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-ff69b4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-ff69b4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+![Slint](https://img.shields.io/badge/Slint-ff69b4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 ### 会一点，但是不用，已经放弃使用
