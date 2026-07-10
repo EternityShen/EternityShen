@@ -7,7 +7,7 @@
 ![年龄](https://img.shields.io/badge/年龄-18岁-ff69b4?style=for-the-badge&logo=line&logoColor=white)
 ![性别](https://img.shields.io/badge/性别-男-ff69b4?style=for-the-badge&logo=sony&logoColor=white)
 
-## 💻 技术栈（全都只学了语法，并不深入）
+## 💻 技术栈（全都只学了语法，并不深入，Rust除外）
 ### 目前在用
 ![Rust](https://img.shields.io/badge/Rust-ff69b4?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
@@ -19,7 +19,7 @@
 
 
 
-### 会一丁点，但是不用，已经放弃使用
+### 会一点，但是不用，已经放弃使用
 ![Kotlin](https://img.shields.io/badge/Kotlin-ff69b4?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white)
