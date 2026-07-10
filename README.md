@@ -55,7 +55,7 @@
 1年
 
 ### 🌱 我目前在...
-深入学习 Flutter 
+学习 Slint
 
 ### 📫 如何联系我
 - GitHub: [@EternityShen](https://github.com/EternityShen)
