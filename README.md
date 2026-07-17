@@ -17,6 +17,7 @@
 
 ### GUI库
 ![Slint](https://img.shields.io/badge/Slint-ff69b4?style=for-the-badge&logo=slint%2B%2B&logoColor=white)
+![Iced](https://img.shields.io/badge/Iced-ff69b4?style=for-the-badge&logo=slint%2B%2B&logoColor=white)
 ### TUI库
 ![Ratatui](https://img.shields.io/badge/Ratatui-ff69b4?style=for-the-badge&logo=slint%2B%2B&logoColor=white)
 
@@ -59,7 +60,7 @@
 1年
 
 ### 🌱 我目前在...
-学习 Slint
+学习 Iced
 
 ### 📫 如何联系我
 - GitHub: [@EternityShen](https://github.com/EternityShen)
