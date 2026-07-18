@@ -7,7 +7,7 @@
 ![年龄](https://img.shields.io/badge/年龄-18岁-ff69b4?style=for-the-badge&logo=line&logoColor=white)
 ![性别](https://img.shields.io/badge/性别-男-ff69b4?style=for-the-badge&logo=sony&logoColor=white)
 
-## 💻 技术栈（全都只学了语法，并不深入，Rust除外）
+## 💻 技术栈（全都只学了语法，并不深入）
 ### 目前在用
 ![Rust](https://img.shields.io/badge/Rust-ff69b4?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
