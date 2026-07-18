@@ -16,7 +16,7 @@
 ![Shell](https://img.shields.io/badge/Shell-ff69b4?style=for-the-badge&logo=%2B%2B&logoColor=white)
 
 ### GUI库
-![Slint](https://img.shields.io/badge/Slint-ff69b4?style=for-the-badge&logo=slint%2B%2B&logoColor=white)
+
 ![Iced](https://img.shields.io/badge/Iced-ff69b4?style=for-the-badge&logo=slint%2B%2B&logoColor=white)
 ### TUI库
 ![Ratatui](https://img.shields.io/badge/Ratatui-ff69b4?style=for-the-badge&logo=slint%2B%2B&logoColor=white)
@@ -30,6 +30,7 @@
 ![Tauri](https://img.shields.io/badge/Tauri-ff69b4?style=for-the-badge&logo=tauri&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-ff69b4?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-ff69b4?style=for-the-badge&logo=flutter&logoColor=white)
+![Slint](https://img.shields.io/badge/Slint-ff69b4?style=for-the-badge&logo=slint%2B%2B&logoColor=white)
 
 
 ## 📱 设备一览
