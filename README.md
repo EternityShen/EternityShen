@@ -62,7 +62,7 @@
 1年
 
 ### 🌱 我目前在...
-学习 Iced
+用Bevy写一个2d游戏
 
 ### 📫 如何联系我
 - GitHub: [@EternityShen](https://github.com/EternityShen)
