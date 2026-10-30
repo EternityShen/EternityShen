@@ -14,9 +14,9 @@
 ![C](https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-ff69b4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-ff69b4?style=for-the-badge&logo=%2B%2B&logoColor=white)
-
 ### GUI库
 ![Iced](https://img.shields.io/badge/Iced-ff69b4?style=for-the-badge&logo=slint%2B%2B&logoColor=white)
+![Freya](https://img.shields.io/badge/Iced-ff69b4?style=for-the-badge&logo=slint%2B%2B&logoColor=white)
 ### 游戏引擎
 ![Bevy](https://img.shields.io/badge/Bevy-ff69b4?style=for-the-badge&logo=slint%2B%2B&logoColor=white)
 ### TUI库
